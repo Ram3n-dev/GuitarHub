@@ -1,0 +1,44 @@
+@import url("style.css");
+
+body {
+    background-color: #f8fbff;
+}
+
+.top-nav {
+    background-color: #2b86d9;
+}
+
+.nav-btn {
+    background-color: #3ea7ff;
+    border-radius: 16px;
+}
+
+.hero h1 {
+    color: #2b86d9;
+}
+
+.highlight-blue {
+    background-color: #a6d8ff;
+}
+
+.highlight-green {
+    background-color: #2f9ff8;
+}
+
+.project-card {
+    background-color: #f4faff;
+    border-color: #55b7ff;
+    border-radius: 12px;
+}
+
+.project-card h3 {
+    background-color: #000000;
+}
+
+.filter.active {
+    background-color: #2b86d9;
+}
+
+#about-note {
+    color: #1f6db2;
+}
